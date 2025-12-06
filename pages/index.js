@@ -26,7 +26,7 @@ export default function Home({ allPostsData }) {
     </Head>
     <section className={utilStyles.headingMd}>
       <p>
-        私は何のサイトを作っているのか。
+        私はブランチでデプロイしている。
       </p>
     </section>
     <section>
